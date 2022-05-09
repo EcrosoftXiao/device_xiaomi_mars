@@ -276,7 +276,7 @@ vendor/lib64/vendor.xiaomi.hardware.campostproc@1.0-service-impl.so
 vendor/lib64/vendor.xiaomi.hardware.campostproc@1.0.so
 
 # Camera - from miui_STAR_V13.0.9.0.SKACNXM
-vendor/lib64/hw/camera.qcom.so|ba2f4315a1509ccf58b616460b3c04b3a52fe612
+vendor/lib64/hw/camera.qcom.so|e274865851a3e26251774b4bd7f314f75a642c04
 
 # Camera-arcsoft
 vendor/lib64/libarcsoft_beautyshot.so
@@ -497,7 +497,6 @@ vendor/etc/camera/stereo.bin
 vendor/etc/camera/superiq_model
 vendor/etc/camera/ubwctp10helper.bin
 vendor/etc/camera/vidhance_calibration
-vendor/etc/camera/st_license.lic
 vendor/etc/camera/xiaomi/mivisettings.txt
 vendor/etc/camera/xiaomi/rearsupernightsnapshot.json
 vendor/etc/camera/xiaomi/satsnapshot_L.json
