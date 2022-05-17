@@ -1,8 +1,9 @@
 [
   {
-    "repository": "device_xiaomi_sm8350-common",
+    "repository": "EcrosoftXiao/device_xiaomi_sm8350-common",
     "target_path": "device/xiaomi/sm8350-common",
-    "branch": "twelve"
+    "branch": "twelve",
+    "remote": "github"
   },
   {
     "repository":  "kernel_xiaomi_mars",
@@ -10,15 +11,21 @@
     "branch": "twelve"
   },
   {
-    "repository": "vendor_xiaomi_mars",
+    "repository": "EcrosoftXiao/vendor_xiaomi_mars",
     "target_path": "vendor/xiaomi/mars",
     "branch": "twelve",
-    "remote": "pixel-devices-blobs"
+    "remote": "github"
   },
   {
-    "repository": "vendor_xiaomi_mars-firmware",
+    "repository": "EcrosoftXiao/vendor_xiaomi_mars-firmware",
     "target_path": "vendor/xiaomi/mars-firmware",
     "branch": "twelve",
-    "remote": "pixel-devices-blobs"
+    "remote": "gitlab"
+  },
+  {
+    "repository": "EcrosoftXiao/vendor_xiaomi_mars-miuicamera",
+    "target_path": "vendor/xiaomi/mars-miuicamera",
+    "branch": "twelve",
+    "remote": "gitlab"
   }
 ]
